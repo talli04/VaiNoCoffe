@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(221, 196, 163);
+}
+
+header {
+  border: solid 2px rgb(83, 32, 3);
+  background-color: rgb(83, 32, 3);
+  height: 60px;
+  padding-left: 60px;
+  padding-top: 6px;
+}
+header h1 {
+  color: aliceblue;
+}
+
+section {
+  margin: 40px 40px;
+  padding-left: 35px;
+  border: solid rgb(83, 32, 3) 8px;
+}
+section figcaption {
+  color: brown;
+  padding-left: 15px;
+}
+section button {
+  margin: 5px 35px;
+  padding: 6px;
+  background-color: rgb(83, 32, 3);
+  color: aliceblue;
+}
+section img {
+  margin-top: 20px;
+}/*# sourceMappingURL=style.css.map */

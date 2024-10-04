@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(221, 196, 163);
+}
+header {
+    border: solid 2px rgb(83, 32, 3);
+    background-color: rgb(83, 32, 3);
+    height: 60px;
+    padding-left: 60px;
+    padding-top: 6px;
+    h1 {
+        color: aliceblue;
+    }
+}
+section{
+    //margin: top(cima) right(direita) bottom(baixo) left(esquerda)
+    //margin: 50px 20px 0 20px;
+    margin: 40px 40px;
+    //margin: (top/bottom) (left/right);
+    padding-left: 35px;
+    border: solid rgb(83, 32, 3) 8px;
+    figcaption{
+        color: brown;
+        padding-left: 15px;
+    }
+    button{
+       margin: 5px 35px;
+       padding: 6px;
+        background-color: rgb(83, 32, 3);
+        color: aliceblue;
+    }
+    img{
+        margin-top: 20px;
+    }
+}
